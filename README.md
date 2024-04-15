@@ -36,4 +36,4 @@ Greetings! 👩‍💻 Computer Studies student specializing in Web Development 
 
 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicxscodesymphony&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=cygullem&show_icons=true&theme=gruvbox)
