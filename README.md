@@ -37,3 +37,7 @@ Greetings! 👩‍💻 Computer Studies student specializing in Web Development 
 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=cygullem&show_icons=true&theme=gruvbox)
+
+### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{cygullem}/count.svg)
+
