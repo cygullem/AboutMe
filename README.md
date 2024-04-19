@@ -26,6 +26,7 @@ Greetings! 👩‍💻 Computer Studies student specializing in Web Development 
 ### How to reach me: 
 <a href="mailto: cygullem@gmail.com">
 <img src="https://img.shields.io/badge/-cygullem%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+
 #
 
    🧰 Tools 
