@@ -5,7 +5,7 @@ This what you need to know about me
 
 **`IT STUDENT (Web designer)`**
 
-Greetings! 👩‍💻 Computer Studies student specializing in Web Development | 🎓 Pursuing a Bachelor's Degree | Passionate about crafting user-centric web experiences.
+Greetings! 👩‍💻 Computer Studies student specializing in Web Development | 🎓 Bachelor of Science in Information Technology | Passionate about crafting user-centric web experiences.
 
    <p align="left">
       <a href="[https://github.com/cygullem?tab=followers](https://github.com/cygullem?tab=followers)">
